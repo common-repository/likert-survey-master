@@ -1,0 +1,14 @@
+/* Add your custom CSS if any. Don't forget to include it in watuprocustom_init() by using the wp_enqueue_script call.  */
+.likertm-survey-question {
+	margin-top: 20px;
+}
+
+.likertm-survey-action {
+	margin-top: 40px;
+}
+
+.likertm-contact-area label {
+   min-width: 150px;
+   display:block;
+   float:left;
+}
